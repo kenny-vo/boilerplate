@@ -1,0 +1,17 @@
+/*NAV Bar*/
+nav ul li {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+ul {
+	list-style: none;
+	display: flex;
+  justify-content: flex-end;
+  flex-direction: row;
+}
+
+
+img {
+  padding: 5px;
+}
